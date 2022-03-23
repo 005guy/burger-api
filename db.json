@@ -1,0 +1,40 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name":  "Five Guy's Cheeseburger",
+            "resturant": "Five Guy's",
+            "web": "https://restaurants.fiveguys.com",
+            "description": "A customizable cheeseburger that will be yummy for sure :).",
+            "ingredients": ["beef", "sesame seed bun"],
+            "addresses": [
+                {
+                    "addressid":"0",
+                    "number":"29387",
+                    "line1": "Mound Road",
+                    "line2": "Warren",
+                    "postcode": "48092",
+                    "state": "Michigan"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name":  "Whiskey River BBQ",
+            "resturant": "Red Robin",
+            "web": "https://www.redrobin.com/item/whiskey-river-bbq/",
+            "description": "Burger with BBQ and onion rings that looks yummy.",
+            "ingredients": ["beef", "onion straws", "whiskey river bbq sauce", "cheddar", "lettuce", "tomatoes", "mayo"],
+            "addresses": [
+                {
+                    "addressid":"1",
+                    "number":"31805",
+                    "line1": "John R Road",
+                    "line2": "Madison Heights",
+                    "postcode": "48071",
+                    "state": "Michigan"
+                }
+            ]
+        }
+    ]
+}
